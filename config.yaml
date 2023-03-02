@@ -1,0 +1,5 @@
+source:
+  newscientist.com:
+    enabled: true
+  scientificamerican.com:
+    enabled: true
